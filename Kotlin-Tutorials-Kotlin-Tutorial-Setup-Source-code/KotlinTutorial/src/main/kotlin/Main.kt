@@ -1,3 +1,3 @@
-fun main(args: Array<String>) {
-    println("Hello World")
+fun main(arg: Array<String>){
+    print("Pierre")
 }

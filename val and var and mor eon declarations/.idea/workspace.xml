@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e624147d-7043-44c0-adec-74a70c682c85" name="Default Changelist" comment="" />
+    <list default="true" id="fbf473e4-9b52-4033-9d51-6bb62863c2a1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../String Concatenation and Interpolation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../String Concatenation and Interpolation/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="54" lean-forward="true" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+            <state relative-caret-position="425">
+              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -68,8 +70,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="String Concatenation and Interpolation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="String Concatenation and Interpolation" type="462c0819:PsiDirectoryNode" />
+              <item name="val and var and mor eon declarations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="val and var and mor eon declarations" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -79,8 +81,6 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../More on Variables and Types/src/Main.kt" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -117,7 +117,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Main" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="String Concatenation and Interpolation" />
+      <module name="val and var and mor eon declarations" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -135,11 +135,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e624147d-7043-44c0-adec-74a70c682c85" name="Default Changelist" comment="" />
-      <created>1569869839706</created>
+      <changelist id="fbf473e4-9b52-4033-9d51-6bb62863c2a1" name="Default Changelist" comment="" />
+      <created>1569871064783</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569869839706</updated>
+      <updated>1569871064783</updated>
     </task>
     <servers />
   </component>
@@ -156,10 +156,10 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -175,17 +175,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../More on Variables and Types/src/Main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="18" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="54" lean-forward="true" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+        <state relative-caret-position="425">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
         </state>
       </provider>
     </entry>

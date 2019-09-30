@@ -2,24 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aed300d2-0ed3-4576-82bb-f8feffa9abbf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/.gradle/4.10.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/.gradle/4.10.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/.gradle/4.10.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/.gradle/4.10.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/.gradle/4.10.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/.gradle/4.10.1/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/.gradle/4.10.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/.gradle/4.10.1/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/.idea/codeStyles/Project.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/build/classes/kotlin/main/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/build/classes/kotlin/main/MainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/build/libs/KotlinTutorial.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/build/libs/KotlinTutorial.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin-Tutorials-Kotlin-Tutorial-Setup-Source-code/KotlinTutorial/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/src/Main.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -115,6 +100,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,11 +123,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
@@ -217,9 +203,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27132195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -250,7 +235,7 @@
     <entry file="file://$PROJECT_DIR$/src/Main.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>

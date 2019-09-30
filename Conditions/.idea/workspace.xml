@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbf473e4-9b52-4033-9d51-6bb62863c2a1" name="Default Changelist" comment="" />
+    <list default="true" id="762ec8d5-3c76-45dd-9e7e-77796cc8ea16" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../val and var and mor eon declarations/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../val and var and mor eon declarations/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="265">
+              <caret line="29" column="34" selection-end-line="42" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -62,24 +64,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="val and var and mor eon declarations" type="b2602c69:ProjectViewProjectNode" />
-              <item name="val and var and mor eon declarations" type="462c0819:PsiDirectoryNode" />
+              <item name="Conditions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Conditions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -115,8 +116,8 @@
       <module name="" />
       <method v="2" />
     </configuration>
-    <configuration name="Main" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="val and var and mor eon declarations" />
+    <configuration name="Unnamed" type="JetRunConfigurationType" factoryName="Kotlin" nameIsGenerated="true">
+      <module name="Conditions" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -134,11 +135,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fbf473e4-9b52-4033-9d51-6bb62863c2a1" name="Default Changelist" comment="" />
-      <created>1569871064783</created>
+      <changelist id="762ec8d5-3c76-45dd-9e7e-77796cc8ea16" name="Default Changelist" comment="" />
+      <created>1569879870424</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569871064783</updated>
+      <updated>1569879870424</updated>
     </task>
     <servers />
   </component>
@@ -155,10 +156,10 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -176,8 +177,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="265">
+          <caret line="29" column="34" selection-end-line="42" selection-end-column="1" />
         </state>
       </provider>
     </entry>

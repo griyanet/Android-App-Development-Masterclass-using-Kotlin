@@ -29,7 +29,9 @@ class Player (val name: String, var lives: Int, var level: Int, var score: Int){
 
     fun showInventory(){
         println("$name's Inventory")
-        println(inventory[0].toString())
+        for(item in inventory){
+            println(item)
+        }
         println("====================")
     }
 }

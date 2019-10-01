@@ -1,5 +1,5 @@
 open class Enemy(val name: String, var hitPoints: Int, var lives: Int){
-    fun takeDamage(damage: Int){
+    open fun takeDamage(damage: Int){
         val remainingHitPoint = hitPoints - damage
         if(remainingHitPoint > 0){
             hitPoints = remainingHitPoint

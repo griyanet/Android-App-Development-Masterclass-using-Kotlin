@@ -29,21 +29,10 @@ fun main(Args: Array<String>){
         println("you don't have a ${bluePotion.name}")
     }
     println(pierre)
-//    for(i in 1..10){
-//        println("$i squared is ${toDouble(i).pow(2)}")
-//    }
-//    println("====================")
-//    for(i in 10 downTo 0){
-//        println("$i squared is ${toDouble(i).pow(2)}")
-//    }
-//    println("====================")
-//    for(i in 10 downTo 0 step 2){
-//        println("$i squared is ${toDouble(i).pow(2)}")
-//    }
-//    println("====================")
-//    for(value in 3..100 step 3){
-//        if(value% 5 == 0){
-//            println(value)
-//        }
-//    }
+    if (pierre.dropLoot("Invisibilty Potion")){
+        pierre.showInventory()
+    }else{
+        println("you don't have a \"Invisibilty Potion\"")
+    }
+    pierre.showInventory()
 }

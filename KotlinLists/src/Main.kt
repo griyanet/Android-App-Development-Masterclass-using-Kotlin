@@ -35,4 +35,15 @@ fun main(Args: Array<String>){
         println("you don't have a \"Invisibilty Potion\"")
     }
     pierre.showInventory()
+    val enemy = Enemy("My Ex", 5, 9)
+    enemy.takeDamage(4)
+    enemy.toString()
+    enemy.takeDamage(30)
+    enemy.toString()
+    enemy.toString()
+
+    val troll = Troll("gargamel")
+    println(troll)
+    troll.takeDamage(30)
+    println(troll)
 }

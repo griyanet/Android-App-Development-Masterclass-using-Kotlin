@@ -3,5 +3,7 @@ enum class LootType {
 }
 
 class Loot(val name:String, val type: LootType, val value: Double) {
-
+    override fun toString(): String {
+        return "$name is a $type and is worth $value"
+    }
 }

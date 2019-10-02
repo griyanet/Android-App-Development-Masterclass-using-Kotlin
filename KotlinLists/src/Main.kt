@@ -17,6 +17,17 @@ fun main(Args: Array<String>){
     println("=======================")
 
     val dracula = VampireKing("Dracula")
-    dracula.takeDamage(10)
     println(dracula)
+    while(dracula.lives > 0){
+        if(dracula.Dodge()){
+            continue
+        }
+        if(dracula.runAway()){
+            println("Dracula ran away")
+            break
+        }else{
+            dracula.takeDamage(12)
+        }
+
+    }
 }

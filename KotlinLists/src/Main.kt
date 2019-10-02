@@ -1,38 +1,25 @@
 import jdk.nashorn.internal.runtime.JSType.toDouble
 import kotlin.math.pow
 
-fun main(Args: Array<String>){
+fun main(Args: Array<String>) {
 
-//    val troll = Troll("Gargamel")
-//    println(troll)
-//    troll.takeDamage(30)
-//    println(troll)
-//
-//    println("=======================")
-//
-//    val vlad = Vampire("Vlad")
-//    vlad.takeDamage(9)
-//    println(vlad)
-//
-//    println("=======================")
-//
-    for(i in 1..10){
-        val dracula = VampireKing("Dracula")
-        println(dracula)
 
-        while(dracula.lives > 0){
-            if(dracula.Dodge()){
-                continue
-            }
-            if(dracula.runAway()){
-                println("Dracula ran away")
-                break
-            }else{
-                dracula.takeDamage(80)
-            }
+    val dracula = VampireKing("Dracula")
+    println(dracula)
+    dracula.lives = 0
+    do {
+        if (dracula.Dodge()) {
+            dracula.lives+=1
+            continue
         }
-        println("=====================")
-    }
+        if (dracula.runAway()) {
+            println("Dracula ran away")
+            break
+        } else {
+            dracula.takeDamage(80)
+        }
+    } while (dracula.lives > 0)
+    println("=====================")
 
 //    val conan = Player("Conan")
 //    conan.getLoot(Loot("Invisibilty", LootType.POTION, 4.0))

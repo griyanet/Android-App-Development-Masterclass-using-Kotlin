@@ -1,4 +1,4 @@
-class Player (val name: String, var lives: Int, var level: Int, var score: Int){
+class Player (val name: String, var lives: Int = 3, var level: Int = 1, var score: Int = 0){
     var weapon: Weapon = Weapon("Fist", 1)
     private val inventory = ArrayList<Loot>()
 //    fun show(){
@@ -42,10 +42,14 @@ class Player (val name: String, var lives: Int, var level: Int, var score: Int){
         return inventory.removeIf{ it.name == name }
     }
     fun showInventory(){
+        var total:Double = 0.0
         println("$name's Inventory")
         for(item in inventory){
             println(item)
+            total+=item.value
         }
+        println("====================")
+        println("Total score is: $total")
         println("====================")
     }
 }

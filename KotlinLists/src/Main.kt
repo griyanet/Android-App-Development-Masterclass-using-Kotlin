@@ -13,4 +13,10 @@ fun main(Args: Array<String>){
     val vlad = Vampire("Vlad")
     vlad.takeDamage(9)
     println(vlad)
+
+    println("=======================")
+
+    val dracula = VampireKing("Dracula")
+    dracula.takeDamage(10)
+    println(dracula)
 }

@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b97446-8bf1-4f3b-8507-dbbc10182612" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Enemy.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Enemy.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vampire.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vampire.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +20,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#0#74#0" expanded="true" />
               </folding>
@@ -48,11 +47,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Vampire.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/VampireKing.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -109,9 +117,10 @@
         <option value="$PROJECT_DIR$/src/Weapon.kt" />
         <option value="$PROJECT_DIR$/src/Player.kt" />
         <option value="$PROJECT_DIR$/src/Troll.kt" />
-        <option value="$PROJECT_DIR$/src/Main.kt" />
         <option value="$PROJECT_DIR$/src/Enemy.kt" />
+        <option value="$PROJECT_DIR$/src/Main.kt" />
         <option value="$PROJECT_DIR$/src/Vampire.kt" />
+        <option value="$PROJECT_DIR$/src/VampireKing.kt" />
       </list>
     </option>
   </component>
@@ -155,7 +164,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -285,20 +294,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Vampire.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#0#74#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Vampire.kt">
+    <entry file="file://$PROJECT_DIR$/src/VampireKing.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
